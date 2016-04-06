@@ -1,0 +1,12 @@
+Änderungen:
+- Seitenzahlen überall einblenden
+- Konkurrenz mehr Logos mit Animation
+- Marketingstrategien/Ziele einblenden von Zeilen
+- Gliederung spacing
+- Folie Projektdurchführung
+- Marketingstrategien Ziele eckig und Strategien rund
+- Marketingstrategien Topics entfernen
+- Distribution Pfeile anpassen
+- Kommunikation "Suchmaschinenoptimierung" Topic entfernen
+- Kommunikation "bei Bedarf" Topic entfernen
+- Kommunikation "Initialversion" doppelpunkt entfernen
